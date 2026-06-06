@@ -2,10 +2,12 @@
 
 A reading list of all the textbooks and books I am reading
 
+- Abelson, H., & Sussman, G. J. (1996). [Structure and interpretation of computer programs (2nd ed.).](https://web.mit.edu/6.001/6.037/sicp.pdf) MIT Press.
 - Abramovich, F., & Ritov, Y. A. (2022). Statistical theory: a concise introduction. Chapman and Hall/CRC.
 - Almudevar, A. (2021). Theory of statistical inference. Chapman and Hall/CRC.
 - Andrews, M. (2021). [Doing data science in R: an introduction for social scientists.](https://www.mjandrews.org/book/ddsr/)
 - Betancourt's Writings: [https://betanalpha.github.io/writing/](https://betanalpha.github.io/writing/)
+- Bickel, P. J., & Doksum, K. A. (2015). [Mathematical statistics: basic ideas and selected topics, volumes I-II package.](https://api.pageplace.de/preview/DT0400.9781498723817_A36331691/preview-9781498723817_A36331691.pdf) Chapman and Hall/CRC.
 - Bishop, C. M., & Nasrabadi, N. M. (2006). [Pattern recognition and machine learning (Vol. 4, No. 4, p. 738).](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) New York: springer.
 - Carlin, B. P., & Louis, T. A. (2008). Bayesian methods for data analysis. CRC press.
 - Casella, G., & Berger, R. (2024). [Statistical inference.](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) Chapman and Hall/CRC.
@@ -16,6 +18,7 @@ A reading list of all the textbooks and books I am reading
 - Gelman, Vehtari, McElreath, Simpson, Margossian, Yao, Kennedy, Gabry, Bürkner, Modrák, Leos Barajas (2026). [Bayesian Workflow.](https://avehtari.github.io/Bayesian-Workflow/) Chapman & Hall.
 - Gupta, S. C., & Kapoor, V. K. (2020). [Fundamentals of mathematical statistics. (A Modern Approach)](https://dpbck.ac.in/wp-content/uploads/2023/06/2.-B.C.A.-Elements-of-Statistics-Study-Material.pdf) Sultan Chand & Sons.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). [The elements of statistical learning.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
+- James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). [An introduction to statistical learning: with applications in R (Vol. 103).](https://www.statlearning.com/) New York: springer.
 - Jaynes, E. T. (2003). [Probability theory: The logic of science.](https://bayes.wustl.edu/etj/prob/book.pdf) Cambridge university press.
 - John, K. (2010). Doing Bayesian data analysis: a tutorial introduction with R.
 - Johnson, A. A., Ott, M. Q., & Dogucu, M. (2022). [Bayes rules!: An introduction to applied Bayesian modeling.](https://www.bayesrulesbook.com/) Chapman and Hall/CRC.
@@ -25,6 +28,7 @@ A reading list of all the textbooks and books I am reading
 - Matsuura, K. (2022). [Bayesian statistical modeling with Stan, R, and Python (p. 11).](http://www.biblio.cerist.dz/hrbdonf5214/ouvrages/000000000620945000001_2.pdf) Singapore: Springer.
 - McElreath, R. (2018). [Statistical rethinking: A Bayesian course with examples in R and Stan](https://xcelab.net/rm/). Chapman and Hall/CRC.
 - Lauritzen, S. (2023). Fundamentals of mathematical statistics. Chapman and Hall/CRC.
+- Thomas, D., & Hunt, A. (2019). The Pragmatic Programmer: your journey to mastery. Addison-Wesley Professional.
 - Wasserman, L. (2004). [All of statistics: a concise course in statistical inference (Vol. 26, p. 86).](https://egrcc.github.io/docs/math/all-of-statistics.pdf) New York: Springer.
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
 
