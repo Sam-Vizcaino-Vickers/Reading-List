@@ -3,7 +3,7 @@
 A reading list of all the textbooks and books I am reading
 
 - Andrews, M. (2021). [Doing data science in R: an introduction for social scientists.](https://www.mjandrews.org/book/ddsr/)
-- Betancourt's Writins: [https://betanalpha.github.io/writing/](https://betanalpha.github.io/writing/)
+- Betancourt's Writings: [https://betanalpha.github.io/writing/](https://betanalpha.github.io/writing/)
 - Bishop, C. M., & Nasrabadi, N. M. (2006). [Pattern recognition and machine learning (Vol. 4, No. 4, p. 738).](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) New York: springer.
 - Gelman, A., Carlin, J. B., Stern, H. S., & Rubin, D. B. (1995). [Bayesian data analysis.](https://avehtari.github.io/BDA_course_Aalto/) Chapman and Hall/CRC.
 - Gelman, A., & Hill, J. (2007). [Data analysis using regression and multilevel/hierarchical models.](https://moodle2.units.it/pluginfile.php/756424/mod_resource/content/1/gelman%20hill%202007.pdf) Cambridge university press.
