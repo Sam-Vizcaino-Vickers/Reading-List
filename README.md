@@ -16,3 +16,9 @@ A reading list of all the textbooks and books I am reading
 - McElreath, R. (2018). [Statistical rethinking: A Bayesian course with examples in R and Stan](https://xcelab.net/rm/). Chapman and Hall/CRC.
 - Wasserman, L. (2004). [All of statistics: a concise course in statistical inference (Vol. 26, p. 86).](https://egrcc.github.io/docs/math/all-of-statistics.pdf) New York: Springer.
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
+
+
+
+# Guides  
+
+- https://mc-stan.org/
