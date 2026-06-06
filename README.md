@@ -13,6 +13,7 @@ A reading list of all the textbooks and books I am reading
 - Gelman, A., Carlin, J. B., Stern, H. S., & Rubin, D. B. (1995). [Bayesian data analysis.](https://avehtari.github.io/BDA_course_Aalto/) Chapman and Hall/CRC.
 - Gelman, A., & Hill, J. (2007). [Data analysis using regression and multilevel/hierarchical models.](https://moodle2.units.it/pluginfile.php/756424/mod_resource/content/1/gelman%20hill%202007.pdf) Cambridge university press.
 - Gelman, A., Hill, J., & Vehtari, A. (2021). [Regression and other stories.](https://avehtari.github.io/ROS-Examples/) Cambridge University Press.
+- Gelman, Vehtari, McElreath, Simpson, Margossian, Yao, Kennedy, Gabry, Bürkner, Modrák, Leos Barajas (2026). [Bayesian Workflow.](https://avehtari.github.io/Bayesian-Workflow/) Chapman & Hall.
 - Gupta, S. C., & Kapoor, V. K. (2020). [Fundamentals of mathematical statistics. (A Modern Approach)](https://dpbck.ac.in/wp-content/uploads/2023/06/2.-B.C.A.-Elements-of-Statistics-Study-Material.pdf) Sultan Chand & Sons.
 - Hastie, T., Tibshirani, R., & Friedman, J. (2009). [The elements of statistical learning.](https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf)
 - Jaynes, E. T. (2003). [Probability theory: The logic of science.](https://bayes.wustl.edu/etj/prob/book.pdf) Cambridge university press.
