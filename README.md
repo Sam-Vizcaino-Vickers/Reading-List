@@ -1,5 +1,10 @@
-# Reading-List
+# Vade-Mecum
 
+A *vademecum* (from the Latin for "go with me") is a compact, comprehensive handbook or pocket guide kept close at hand for instant reference.
+
+In the context for this  GitHub repository, this project serves as your digital vademecum.In other words, this repository will consolidate all the essential texts, setups, and troubleshooting fixes into one highly accessible, production-ready guide. It will contain the superficial information as to where I need go to to get the information as well. 
+
+# Textbooks
 A reading list of all the textbooks and books I am reading
 
 - Abdi, H. (2009). Experimental design and analysis for psychology. OUP Oxford.
