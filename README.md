@@ -16,6 +16,7 @@ A reading list of all the textbooks and books I am reading
 - Betancourt's Writings: [https://betanalpha.github.io/writing/](https://betanalpha.github.io/writing/)
 - Bickel, P. J., & Doksum, K. A. (2015). [Mathematical statistics: basic ideas and selected topics, volumes I-II package.](https://api.pageplace.de/preview/DT0400.9781498723817_A36331691/preview-9781498723817_A36331691.pdf) Chapman and Hall/CRC.
 - Bishop, C. M., & Nasrabadi, N. M. (2006). [Pattern recognition and machine learning (Vol. 4, No. 4, p. 738).](https://www.microsoft.com/en-us/research/wp-content/uploads/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) New York: springer.
+- Busemeyer, J. R., & Diederich, A. (2010). Cognitive modeling. Sage.
 - Carlin, B. P., & Louis, T. A. (2008). Bayesian methods for data analysis. CRC press.
 - Casella, G., & Berger, R. (2024). [Statistical inference.](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) Chapman and Hall/CRC.
 - Epskamp, S., Maris, G., Waldorp, L. J., & Borsboom, D. (2018). Network psychometrics. The Wiley handbook of psychometric testing: A multidisciplinary reference on survey, scale and test development, 953-986.
