@@ -37,6 +37,7 @@ A reading list of all the textbooks and books I am reading
 - Matsuura, K. (2022). [Bayesian statistical modeling with Stan, R, and Python (p. 11).](http://www.biblio.cerist.dz/hrbdonf5214/ouvrages/000000000620945000001_2.pdf) Singapore: Springer.
 - Maxwell, S. E., Delaney, H. D., & Kelley, K. (2017). [Designing experiments and analyzing data: A model comparison perspective.](https://api.pageplace.de/preview/DT0400.9781135653477_A23806531/preview-9781135653477_A23806531.pdf) Routledge.
 - McElreath, R. (2018). [Statistical rethinking: A Bayesian course with examples in R and Stan](https://xcelab.net/rm/). Chapman and Hall/CRC.
+- Navarro, D. (2013). [Learning statistics with R.](https://learningstatisticswithr.com/) Lulu. com.
 - Ramachandran, K. M., & Tsokos, C. P. (2020). [Mathematical statistics with applications in R.]() Academic Press.
 - Rice, John A., and John A. Rice. [Mathematical statistics and data analysis.](https://korivernon.com/documents/MathematicalStatisticsandDataAnalysis3ed.pdf) Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
 - Thomas, D., & Hunt, A. (2019). The Pragmatic Programmer: your journey to mastery. Addison-Wesley Professional.
