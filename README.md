@@ -28,6 +28,7 @@ A reading list of all the textbooks and books I am reading
 - Lee, M. D., & Wagenmakers, E. J. (2014). Bayesian cognitive modeling: A practical course. Cambridge university press.
 - Levy, R., & Mislevy, R. J. (2017). Bayesian psychometric modeling. Chapman and Hall/CRC.
 - Matsuura, K. (2022). [Bayesian statistical modeling with Stan, R, and Python (p. 11).](http://www.biblio.cerist.dz/hrbdonf5214/ouvrages/000000000620945000001_2.pdf) Singapore: Springer.
+- Maxwell, S. E., Delaney, H. D., & Kelley, K. (2017). [Designing experiments and analyzing data: A model comparison perspective.](https://api.pageplace.de/preview/DT0400.9781135653477_A23806531/preview-9781135653477_A23806531.pdf) Routledge.
 - McElreath, R. (2018). [Statistical rethinking: A Bayesian course with examples in R and Stan](https://xcelab.net/rm/). Chapman and Hall/CRC.
 - Ramachandran, K. M., & Tsokos, C. P. (2020). [Mathematical statistics with applications in R.]() Academic Press.
 - Rice, John A., and John A. Rice. [Mathematical statistics and data analysis.](https://korivernon.com/documents/MathematicalStatisticsandDataAnalysis3ed.pdf) Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
@@ -35,6 +36,8 @@ A reading list of all the textbooks and books I am reading
 - Wasserman, L. (2004). [All of statistics: a concise course in statistical inference (Vol. 26, p. 86).](https://egrcc.github.io/docs/math/all-of-statistics.pdf) New York: Springer.
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
 
+
+# Training Courses 
 
 
 # Guides  
