@@ -2,6 +2,7 @@
 
 A reading list of all the textbooks and books I am reading
 
+- Abdi, H. (2009). Experimental design and analysis for psychology. OUP Oxford.
 - Abelson, H., & Sussman, G. J. (1996). [Structure and interpretation of computer programs (2nd ed.).](https://web.mit.edu/6.001/6.037/sicp.pdf) MIT Press.
 - Abramovich, F., & Ritov, Y. A. (2022). Statistical theory: a concise introduction. Chapman and Hall/CRC.
 - Almudevar, A. (2021). Theory of statistical inference. Chapman and Hall/CRC.
