@@ -41,6 +41,7 @@ A reading list of all the textbooks and books I am reading
 - Rice, John A., and John A. Rice. [Mathematical statistics and data analysis.](https://korivernon.com/documents/MathematicalStatisticsandDataAnalysis3ed.pdf) Vol. 371. Belmont, CA: Thomson/Brooks/Cole, 2007.
 - Thomas, D., & Hunt, A. (2019). The Pragmatic Programmer: your journey to mastery. Addison-Wesley Professional.
 - Wasserman, L. (2004). [All of statistics: a concise course in statistical inference (Vol. 26, p. 86).](https://egrcc.github.io/docs/math/all-of-statistics.pdf) New York: Springer.
+- Wickham, H. (2019). [Advanced r](https://adv-r.hadley.nz/). chapman and hall/CRC.
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
 
 
