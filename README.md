@@ -47,7 +47,9 @@ A reading list of all the textbooks and books I am reading
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
 
 
-# Training Courses 
+# Training Courses Undertaken
+
+- Andrews, M. (2024). Introduction to Bayesian Data Analysis. [https://www.mjandrews.org/training/ibdar24/](https://www.mjandrews.org/training/ibdar24/).
 
 
 # Guides  
