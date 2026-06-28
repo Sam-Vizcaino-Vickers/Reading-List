@@ -5,7 +5,7 @@ A *vademecum* (from the Latin for "go with me") is a compact, comprehensive hand
 In the context for this  GitHub repository, this project serves as my digital reference tool. In other words, this repository will consolidate all the essential texts, setups, and troubleshooting fixes into one highly accessible, production-ready guide. It will contain the superficial information as to where I need go to to get the information as well. 
 
 # Textbooks
-A reading list of all the textbooks and books I am reading
+A reading list of all the textbooks and books I am reading / read. 
 
 - Abdi, H. (2009). Experimental design and analysis for psychology. OUP Oxford.
 - Abelson, H., & Sussman, G. J. (1996). [Structure and interpretation of computer programs (2nd ed.).](https://web.mit.edu/6.001/6.037/sicp.pdf) MIT Press.
@@ -35,6 +35,8 @@ A reading list of all the textbooks and books I am reading
 - Lauritzen, S. (2023). Fundamentals of mathematical statistics. Chapman and Hall/CRC.
 - Lee, M. D., & Wagenmakers, E. J. (2014). Bayesian cognitive modeling: A practical course. Cambridge university press.
 - Levy, R., & Mislevy, R. J. (2017). Bayesian psychometric modeling. Chapman and Hall/CRC.
+- Mair, P. (2018). Modern psychometrics with R (Vol. 10, pp. 978-3). Cham: Springer International Publishing.
+- Martinková, P., & Hladká, A. (2023). Computational aspects of psychometric methods: With R. Chapman and Hall/CRC.
 - Matsuura, K. (2022). [Bayesian statistical modeling with Stan, R, and Python (p. 11).](http://www.biblio.cerist.dz/hrbdonf5214/ouvrages/000000000620945000001_2.pdf) Singapore: Springer.
 - Maxwell, S. E., Delaney, H. D., & Kelley, K. (2017). [Designing experiments and analyzing data: A model comparison perspective.](https://api.pageplace.de/preview/DT0400.9781135653477_A23806531/preview-9781135653477_A23806531.pdf) Routledge.
 - McElreath, R. (2018). [Statistical rethinking: A Bayesian course with examples in R and Stan](https://xcelab.net/rm/). Chapman and Hall/CRC.
@@ -45,7 +47,7 @@ A reading list of all the textbooks and books I am reading
 - Wasserman, L. (2004). [All of statistics: a concise course in statistical inference (Vol. 26, p. 86).](https://egrcc.github.io/docs/math/all-of-statistics.pdf) New York: Springer.
 - Wickham, H. (2019). [Advanced r](https://adv-r.hadley.nz/). chapman and hall/CRC.
 - Wickham, H., & Grolemund, G. (2017). [R for data science (Vol. 2).](https://r4ds.hadley.nz/) Sebastopol: O'Reilly.
-
+- Yu, B., & Barter, R. L. (2024). Veridical data science: The practice of responsible data analysis and decision making. MIT Press.
 
 # Training Courses Undertaken
 
