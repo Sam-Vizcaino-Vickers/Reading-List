@@ -4,6 +4,9 @@ A *vademecum* (from the Latin for "go with me") is a compact, comprehensive hand
 
 In the context for this  GitHub repository, this project serves as my digital reference tool. In other words, this repository will consolidate all the essential texts, setups, and troubleshooting fixes into one highly accessible, production-ready guide. It will contain the superficial information as to where I need go to to get the information as well. 
 
+*Note - I have not exclusively read all the pages from every single book below (I have done with a few personal favourites :) ). I primarily selected certain chapters from the textbooks which explain certain topics more eloquently for me and thus incorporated into my notes and personal writings. 
+
+
 # Textbooks
 A reading list of all the textbooks and books I am reading / read. 
 
